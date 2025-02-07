@@ -75,8 +75,4 @@ mlops-handwritten-digits/
 - Use **Kubeflow Pipelines** to orchestrate **data preprocessing, training, evaluation, and deployment**.  
 ✅ **Feature Store**: Implement **Feast** to manage and serve features in production.  
 
----
 
-### 🚀 **Next Steps**
-
-Do you want implementation code for the core components (training, inference, CI/CD, etc.)?
